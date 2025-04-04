@@ -2,8 +2,9 @@
 
 One day I spilled water on my keyboard and now my keyboard is silly. ✨
 
-NumPad8 - Dead
-Space - Compose
+- NumPad8 - Dead
+- Space - Compose
+- Not tested yet.
 
 ## 📦 Installation 📦
 
