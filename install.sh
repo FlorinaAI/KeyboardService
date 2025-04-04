@@ -169,7 +169,8 @@ Type=simple
 ExecStart=$INSTALL_DIR/venv/bin/python $PYTHON_FILE
 Restart=always
 RestartSec=3
-User=$ORIGINAL_USER
+User=root
+Group=root
 WorkingDirectory=$INSTALL_DIR
 Environment=DISPLAY=:0
 Environment=XDG_RUNTIME_DIR=/run/user/$(id -u "$ORIGINAL_USER")
