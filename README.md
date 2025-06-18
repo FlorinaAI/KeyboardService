@@ -1,5 +1,5 @@
 THIS IS NOT WORKING!!!! IT DELETED MY HYPRLANDDDDDDDDDDDDDDDDDDDDDDDDD!!! FUKO YOU AI !!!!
-<div align="center"><img src="https://tenor.com/l24gIBQWa5j.gif" alt="FUKO YOU!!!"></div>
+<div align="center"><img src="https://media1.tenor.com/m/inBCFHNAJRcAAAAC/fuko-clannad.gif" alt="FUKO YOU!!!"></div>
 
 
 # 🌸 Florina Keyboard Service 🌸
